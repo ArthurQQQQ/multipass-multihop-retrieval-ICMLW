@@ -1,0 +1,64 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{BAI-LAB}(2025)]{memoryos2025emnlp}
+{BAI-LAB}.
+\newblock Memory{OS} of {AI} agent.
+\newblock In \emph{Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing}, 2025.
+\newblock Oral presentation.
+
+\bibitem[Guti{\'e}rrez et~al.(2024)Guti{\'e}rrez, Shu, Gu, Yasunaga, and Su]{gutierrez2024hipporag}
+Guti{\'e}rrez, B.~J., Shu, Y., Gu, Y., Yasunaga, M., and Su, Y.
+\newblock {HippoRAG}: Neurobiologically inspired long-term memory for large language models.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2024.
+
+\bibitem[Jiang et~al.(2023)Jiang, Xu, Gao, Sun, Liu, Dwivedi-Yu, Yang, Callan, and Neubig]{jiang2023flare}
+Jiang, Z., Xu, F.~F., Gao, L., Sun, Z., Liu, Q., Dwivedi-Yu, J., Yang, Y., Callan, J., and Neubig, G.
+\newblock Active retrieval augmented generation.
+\newblock In \emph{Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing}, 2023.
+
+\bibitem[Liu et~al.(2024)Liu, Lin, Hewitt, Paranjape, Bevilacqua, Petroni, and Liang]{liu2024lostmiddle}
+Liu, N.~F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., and Liang, P.
+\newblock Lost in the middle: How language models use long contexts.
+\newblock \emph{Transactions of the Association for Computational Linguistics}, 12:\penalty0 157--173, 2024.
+
+\bibitem[{Mem0 Team}(2026)]{mem0blog2026}
+{Mem0 Team}.
+\newblock State of {AI} agent memory 2026.
+\newblock \url{https://mem0.ai/blog/state-of-ai-agent-memory-2026}, 2026.
+
+\bibitem[Press et~al.(2023)Press, Zhang, Min, Schmidt, Smith, and Lewis]{press2023selfask}
+Press, O., Zhang, M., Min, S., Schmidt, L., Smith, N.~A., and Lewis, M.
+\newblock Measuring and narrowing the compositionality gap in language models.
+\newblock In \emph{Findings of the Association for Computational Linguistics: EMNLP 2023}, 2023.
+
+\bibitem[Trivedi et~al.(2022)Trivedi, Balasubramanian, Khot, and Sabharwal]{musique}
+Trivedi, H., Balasubramanian, N., Khot, T., and Sabharwal, A.
+\newblock {M}u{S}i{Q}ue: Multihop questions via single-hop question composition.
+\newblock \emph{Transactions of the Association for Computational Linguistics}, 10:\penalty0 539--554, 2022.
+
+\bibitem[Trivedi et~al.(2023)Trivedi, Balasubramanian, Khot, and Sabharwal]{trivedi2023ircot}
+Trivedi, H., Balasubramanian, N., Khot, T., and Sabharwal, A.
+\newblock Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions.
+\newblock In \emph{Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}, pp.\  10014--10037, 2023.
+
+\bibitem[Wu et~al.(2025)Wu, Wang, Yu, Zhang, Chang, and Yu]{wu2024longmemeval}
+Wu, D., Wang, H., Yu, W., Zhang, Y., Chang, K.-W., and Yu, D.
+\newblock {LongMemEval}: Benchmarking chat assistants on long-term interactive memory.
+\newblock In \emph{International Conference on Learning Representations (ICLR)}, 2025.
+
+\bibitem[Xu et~al.(2025)Xu, Zhao, Wang, Zhang, Liu, and Wang]{xu2025amem}
+Xu, W., Zhao, M., Wang, L., Zhang, L., Liu, Y., and Wang, Y.
+\newblock {A-Mem}: Agentic memory for {LLM} agents.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2025.
+
+\bibitem[Yao et~al.(2023)Yao, Zhao, Yu, Du, Shafran, Narasimhan, and Cao]{yao2023react}
+Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., and Cao, Y.
+\newblock {ReAct}: Synergizing reasoning and acting in language models.
+\newblock In \emph{International Conference on Learning Representations (ICLR)}, 2023.
+
+\end{thebibliography}

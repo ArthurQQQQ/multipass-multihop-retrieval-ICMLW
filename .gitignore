@@ -1,0 +1,30 @@
+# OS / editor
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.blg
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Archives / templates
+*.zip
+
+# Large data & embedding caches (not redistributed — see README "Data")
+data/**/*.npz
+data/**/*.npy
+data/**/*.jsonl
+data/**/*.json
+!data/.gitkeep
+
+# Secrets
+.env
+.env.local
