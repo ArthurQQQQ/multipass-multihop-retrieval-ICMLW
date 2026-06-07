@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this repository."
+title: "MULTIPASS: bounded multi-hop retrieval for long-context memory"
+authors:
+  - name: "ArthurJQ"
+repository-code: "https://github.com/ArthurQQQQ/multipass-multihop-retrieval-ICMLW"
+date-released: "2026-06-07"
+license: "MIT"
+keywords:
+  - "multi-hop retrieval"
+  - "memory"
+  - "long-context"
+  - "RAG"
+  - "agentic memory"
+  - "bridge starvation"
+  - "ICMLW"

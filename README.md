@@ -46,18 +46,14 @@ LongMemEval's cross-session aggregation failure.
 ## Install
 
 ```bash
-pip install numpy httpx FlagEmbedding rank-bm25   # BGE-M3 dense + BM25
+pip install -r requirements.txt
 ```
 
 The reader and judge use GLM-4.7 over an HTTP API. Set credentials via env vars
-or a local `.env` (git-ignored):
+or a local `.env` (git-ignored). Start from the template:
 
-```
-GLM_URL=...
-GLM_API_KEY=...
-# optional OpenAI-style endpoint for the cross-reader slice:
-OPENAI_URL=...
-OPENAI_API_KEY=...
+```bash
+cp .env.example .env
 ```
 
 ## Run
